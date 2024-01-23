@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bcflores11
+- 👀 I’m interested in pygame
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on my first pygame
+- ✨ I want to have fun ✨
