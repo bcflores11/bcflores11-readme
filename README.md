@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bcflores11
-- 👀 I’m interested in HTML and JS
-- 🌱 I’m currently learning HTML on freeCodeCamp
-- 💞️ I love to use VS Code
+- 👀 I’m interested in HTML and CSS
+- 🌱 I’m currently learning HTML & CSS on freeCodeCamp
 - ✨ I want to have fun
+- ✝️ I love Jesus!
